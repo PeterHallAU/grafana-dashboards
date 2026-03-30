@@ -24,8 +24,47 @@
     "editable": true,
     "fiscalYearStartMonth": 0,
     "graphTooltip": 0,
-    "links": [],
-    "panels": [],
+    "links": [
+      {
+        "asDropdown": false,
+        "icon": "external link",
+        "includeVars": false,
+        "keepTime": false,
+        "tags": [],
+        "targetBlank": true,
+        "title": "Source (GitHub)",
+        "tooltip": "View source file in repository",
+        "type": "link",
+        "url": "https://github.com/PeterHallAU/grafana-dashboards/blob/main/new-dashboard-2026-03-30-n5tgr.json"
+      }
+    ],
+    "panels": [
+      {
+        "fieldConfig": {
+          "defaults": {},
+          "overrides": []
+        },
+        "gridPos": {
+          "h": 8,
+          "w": 12,
+          "x": 0,
+          "y": 0
+        },
+        "id": 1,
+        "options": {
+          "code": {
+            "language": "plaintext",
+            "showLineNumbers": false,
+            "showMiniMap": false
+          },
+          "content": "# Hello, World!\nThis is some sample text to see the image renderer feature in action.\n",
+          "mode": "markdown"
+        },
+        "pluginVersion": "12.4.2",
+        "title": "",
+        "type": "text"
+      }
+    ],
     "preload": false,
     "schemaVersion": 42,
     "tags": [],
