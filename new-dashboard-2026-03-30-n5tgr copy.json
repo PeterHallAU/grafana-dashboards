@@ -2,7 +2,7 @@
   "apiVersion": "dashboard.grafana.app/v1beta1",
   "kind": "Dashboard",
   "metadata": {
-    "name": "defhkrwhi2qmtca"
+    "name": "defhkrwhi2qmtcb"
   },
   "spec": {
     "annotations": {
@@ -35,7 +35,7 @@
         "title": "Source (GitHub)",
         "tooltip": "View source file in repository",
         "type": "link",
-        "url": "https://github.com/PeterHallAU/grafana-dashboards/blob/main/new-dashboard-2026-03-30-n5tgr.json"
+        "url": "https://github.com/PeterHallAU/grafana-dashboards/blob/main/new-dashboard-2026-03-30-n5tgr-copy.json"
       }
     ],
     "panels": [
